@@ -78,7 +78,7 @@ The notebook generates a comparative bar chart:
 - Support maturity bucketing (0–2Y, 2–4Y, etc.)
 
 ## Author
-Sanket Sapre, a Senior Consutant in Model Risk and Regulatory Reporting, currently upskilling into Risk Data Product Management. This project is part of a broader portfolio of open prototypes aimed at modernizing capital and treasury risk workflows through product-led thinking.
+[Sanket Sapre](https://www.linkedin.com/in/sanket-sapre-483a102a/), a Senior Consutant in Model Risk and Regulatory Reporting, currently upskilling into **Risk Data Product Management**. This project is part of a broader portfolio of open prototypes aimed at modernizing capital and treasury risk workflows through product-led thinking.
 
 ## License
 Licensed under the GNU General Public License v3.0 — see LICENSE for details.
